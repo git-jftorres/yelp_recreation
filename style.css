@@ -1,0 +1,48 @@
+.ui.borderless.menu {
+  background-color:transparent;
+  box-shadow:none;
+  border: none;
+  color:white;
+}
+
+.grey-background {
+  background-color: #F5F5F5;
+  height: 300px;
+  color: white;
+}
+
+.colorblocktop {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.grad-background {
+  background: url('https://s3-media3.fl.yelpcdn.com/assets/srv0/yelp_large_assets/b0108eaaf115/assets/img/home/hero_photos/xetgX7L_0aF2pxuTh4gARA.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.ui.action.input {
+  padding-top: 30px;
+}
+
+.ui.simple.dropdown.item {
+  color:white;
+}
+
+a {
+  font-family: Arial;
+}
+
+div {
+  font-family: Arial;
+}
+
+.left.floated.left.aligned.column {
+  font-size: 14px;
+}
+
+b {
+  font-size: 16px;
+}
